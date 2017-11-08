@@ -37,9 +37,6 @@
     "prop-types": "^15.6.0",
     "react-native-iphone-x-helper": "^1.0.1"
   },
-  "peerDependencies": {
-    "react-native": ">=0.48.4"
-  },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
     "babel-preset-react-native": "^4.0.0",
